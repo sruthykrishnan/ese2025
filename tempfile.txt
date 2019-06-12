@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 6 sruthy sruthy 4096 Jun  5 03:46 coding
+-rw-r--r-- 1 sruthy sruthy 1072 May 29 19:17 LICENSE
+-rw-r--r-- 1 sruthy sruthy   76 May 29 19:17 README.md
+-rw-r--r-- 1 sruthy sruthy    0 Jun 12 17:25 tempfile.txt
